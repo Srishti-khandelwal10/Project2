@@ -1,3 +1,4 @@
-# NEW PRoject
+# NEW Project
 
-this project was created from local system
+This project was created from local system
+Created by Srishti Khandelwal
