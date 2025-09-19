@@ -1,4 +1,4 @@
 # NEW Project
 
 This project was created from local system
-Created by Srishti Khandelwal
+Created by Srishti Khandelwal.
